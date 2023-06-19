@@ -1,7 +1,6 @@
 # Hi there, welcome to my profile :)
 
-<!--
-**Faibs7/Faibs7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##I'm 29 years old and a trained IT specialist for application development (Fachinformatiker für Anwendungsentwicklung)
 
 Here are some ideas to get you started:
 
