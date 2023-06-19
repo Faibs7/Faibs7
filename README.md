@@ -1,8 +1,8 @@
 # Hi there, welcome to my profile :)
 
 ##I'm 29 years old and a trained IT specialist for application development (Fachinformatiker für Anwendungsentwicklung)
-
-Here are some ideas to get you started:
+[Me programming](https://giphy.com/gifs/JIX9t2j0ZTN9S)
+### More about myself:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
