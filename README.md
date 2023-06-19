@@ -5,7 +5,7 @@
 
 #### More about myself:
 
-- 🔭 I’m currently doing a web development course at neuefische
+- 🔭 I’m currently doing a web development course at [neuefische](https://www.neuefische.de/)
 - 🌱 I’m currently learning html, css, javascript, php and more
 - ⚡ Fun fact: The first computer “bug” was an actual real-life bug :bug:
 
