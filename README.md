@@ -7,5 +7,5 @@
 
 - 🔭 I’m currently doing a web development course at neuefische
 - 🌱 I’m currently learning html, css, javascript, php and more
-- ⚡ Fun fact: The first computer “bug” was an actual real-life bug :ladybug:
+- ⚡ Fun fact: The first computer “bug” was an actual real-life bug :bug:
 
