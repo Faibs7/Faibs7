@@ -8,7 +8,7 @@
 #### More about myself:
 
 - 🔭 I’m currently doing a web development course at [neuefische](https://www.neuefische.de/)
-- 🌱 I’m currently learning html, css, javascript, php and more
+- 🌱 I’m currently learning javascript, php and react
 - ⚡ Fun fact: The first computer “bug” was an actual real-life bug :bug:
 
 
