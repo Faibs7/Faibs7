@@ -11,4 +11,4 @@
 - 🌱 I’m currently learning html, css, javascript, php and more
 - ⚡ Fun fact: The first computer “bug” was an actual real-life bug :bug:
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=faibs7&show_icons=true&theme=radical" alt="faibs7" />
+
